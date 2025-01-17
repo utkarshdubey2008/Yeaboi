@@ -1,0 +1,5 @@
+token: '7614761700:AAE8xHTaT5QM6ZanF8IE8acPw7EF3Am46ws'
+blacklisted: '510805 434258 434256 601149 379248'
+prefix: '/start'
+owner: '7758708579'
+antispam: '30'
